@@ -1,0 +1,33 @@
+.logo{
+    height: 40px;
+}
+.navBar{
+    background-color: #10812aea;
+    width: 100%;
+}
+.navItem{
+    padding-left: 100px;
+    width: 100%;
+}
+.searchBox{
+   margin-left: 25%;
+}
+.NevItem{
+    border-right: 1px solid #6abb7d;
+}
+li a:hover{
+    background-color: red;
+    
+}
+li > .Live{
+    background-color: red;
+}
+.facebook:hover{
+    background-color: #3b5998;
+}
+.twitter:hover{
+    background-color: #00acee;
+}
+.github:hover{
+    background-color: #3E2C00;
+}
